@@ -9,16 +9,16 @@ Este repositório inclui:
 - Testes de codigos
 
 Acompanhamento de progresso:
-- [] Lógica básica
-- [] Funções
-- [] Condicionais
-- [] Variáveis
-- [] Parâmetros e Argumentos
+- [x] Lógica básica
+- [x] Funções
+- [x] Condicionais
+- [x] Variáveis
+- [x] Parâmetros e Argumentos
 - [] Loopings
 - [] Estrutura de dados
 - [] Automatizações
 
-- [] Criar, adicionar e commitar
+- [x] Criar, adicionar e commitar
 - [] Pull e Push
 - [] Branches e Merges
 
@@ -26,7 +26,7 @@ Passos futuros:
 - Criar projetos simples
 - Desenvolver uma API simples com Flask
 - Aprender manipulação de arquivos
-- Interligar o conhcimento em python com SQL
+- Interligar o conhecimento em python com SQL
 
 Obs: Este repositório faz parte do meu processo de aprendizado, então é comum que exista muitos bugs e refatoramentos ao longo do tempo.
 Pode entrar, só não repara na bagunça :)
