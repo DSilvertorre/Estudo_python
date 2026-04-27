@@ -6,5 +6,3 @@ area2 = int(input("Largura:"))
 resultado = calcular_retangulo(area1,area2)
 
 print(resultado)
-
-

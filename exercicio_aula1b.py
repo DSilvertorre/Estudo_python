@@ -24,3 +24,5 @@ def gerar_recibo():
 resultado = gerar_recibo()
 # Exibir na compra
 print(f"A sua compra ficou no valor de {resultado}\nAdorariamos te informar que você recebeu um desconto")
+
+# Mudanças: CleanCode; Codigo sem argumentos, com apenas um retorno e poucas variáveis.

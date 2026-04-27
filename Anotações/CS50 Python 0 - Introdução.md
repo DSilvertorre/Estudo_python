@@ -8,9 +8,9 @@ tags:
 ### O que iremos aprender?
 
  - [x] Variáveis
- - [ ] Funções
- - [ ] Condicionais
- - [ ] Looping
+ - [x] Funções
+ - [x] Condicionais
+ - [x] Looping
  - [ ] Exceções
  - [ ] Biblioteca
  - [ ] Testes

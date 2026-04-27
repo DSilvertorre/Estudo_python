@@ -14,7 +14,7 @@ Acompanhamento de progresso:
 - [x] Condicionais
 - [x] Variáveis
 - [x] Parâmetros e Argumentos
-- [] Loopings
+- [x] Loopings
 - [] Estrutura de dados
 - [] Automatizações
 
