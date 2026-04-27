@@ -1,10 +1,15 @@
-# Declarar variáveis
+# Exercicio: Verificar a idade de um usuário ao se cadastrar no sistema, 
+# pergunte qual é o nome e a idade do usuário e retorne no final no programa se o
+# acesso dele está liberado ou não.
+# 
+# Objetivo: Praticar funções como variáveis, condições e funções como input e print
+# 
+#  Declarar variáveis
 def exibir_cadastro(nome, idade):
     return f"Nome: {nome}, Idade: {idade}"
 # Entrada de dados
 nome = input("Digite seu nome:")
 idade = int(input("Digite sua idade:"))
-altura = float(input("Digite sua altura:"))
 
 # Condições
 if idade >= 18:

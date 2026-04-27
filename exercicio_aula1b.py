@@ -1,18 +1,26 @@
-# Declarando variáveis
-def gerar_recibo(produto, desconto):
-    if produto >= 500:
-        desconto = 80
-    elif produto >= 200:
-        desconto = 90
-    else: 
-        desconto = 100
-    return produto /100 * desconto
-# aplicar desconto
-valor_do_produto = float(input("Valor do produto:"))
-valor_extra = 0
+# Exercicio: Criar um algoritmo que calcule o valor 
+# do produto de acordo com o valor, quanto maior o valor
+# da compra maior será o desconto. 
+# Os valores devem ser +500, 500-200 e -200
+# Os descontos devem ser 20%, 10% e 0%
+#Respectivamente.
 
-valor_final = gerar_recibo(valor_do_produto, valor_extra)
+# Objetivo do exercicio:
+# Praticar o uso de parâmetros, condicionais e operadores matemáticos
+# De preferencia de uma forma lógica e código limpo
 
-
+# Declarando parâmetros e condicionais
+def gerar_recibo():
+    valor = float(input("Valor do produto:"))
+    if valor >= 500:
+        final = valor * 0.8
+    elif valor >= 200:
+        final = valor * 0.9
+    else:
+        final = valor
+        print("Compre outros produtos para receber descontos")
+    return final
+# Aplicar desconto
+resultado = gerar_recibo()
 # Exibir na compra
-print(f"Olá, a sua compra ficou no valor de {valor_final}\nAdorariamos te informar que você recebeu um desconto, o valor antes do desconto era {valor_do_produto}")
+print(f"A sua compra ficou no valor de {resultado}\nAdorariamos te informar que você recebeu um desconto")
