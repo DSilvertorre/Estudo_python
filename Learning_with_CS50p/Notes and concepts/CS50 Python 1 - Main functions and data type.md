@@ -14,7 +14,7 @@ print("Hello World")
 ```
 
 **Referência:**
-- [Documentação de funções built-in](https://docs.python.org/3/library/functions.html)
+- [Documentação de funções](https://docs.python.org/3/library/functions.html)
 
 ---
 
@@ -42,6 +42,7 @@ Exemplo: `True`, `False`
 
 **Referência:**
 - [Documentação sobre tipos de dados](https://docs.python.org/3/library/stdtypes.html)
+- [Documentação de formatações](https://docs.python.org/3/library/stdtypes.html#string-methods)
 
 ---
 

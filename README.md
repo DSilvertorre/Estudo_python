@@ -4,7 +4,7 @@ Objetivo:
 Desenvolver uma base sólida em programação, enquanto pratico versionamento de código
 
 Este repositório inclui: 
-- Exercicios de logica de programação
+- Exercícios de lógica de programação
 - Práticas com estruturas básicas
 - Testes de codigos
 
@@ -30,5 +30,3 @@ Passos futuros:
 
 Obs: Este repositório faz parte do meu processo de aprendizado, então é comum que exista muitos bugs e refatoramentos ao longo do tempo.
 Pode entrar, só não repara na bagunça :)
-
-

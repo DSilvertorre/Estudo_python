@@ -63,7 +63,7 @@ else:
 
 Usados para combinar ou inverter condições. Sempre retornam `True` ou `False`.
 
-### `and` (e):
+### and (e):
 
 Retorna `True` apenas se **todas** as condições forem verdadeiras.
 
@@ -86,7 +86,7 @@ Pode dirigir!
 
 ---
 
-### `or` (ou):
+### or (ou):
 
 Retorna `True` se pelo menos **uma** das condições for verdadeira.
 
@@ -107,14 +107,14 @@ Que dia é hoje? sábado
 
 ---
 
-### `not` (não):
+### not (não):
 
 Inverte o valor booleano (o que é `True` vira `False` e vice-versa).
 
 ```python
-ehchovendo = True
+chovendo = True
 
-if not ehchovendo:
+if not chovendo:
     print("Vou sair de casa")
 else:
     print("Fico em casa")
