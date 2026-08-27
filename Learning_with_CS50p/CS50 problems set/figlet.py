@@ -18,4 +18,4 @@ if fonte_escolhida not in fontes_disponiveis:
 write = input("Input: ")
 
 resultado = figlet_format(write, font=fonte_escolhida)
-print(resultado)
+print(f"Output: {resultado})
